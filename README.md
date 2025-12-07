@@ -295,21 +295,21 @@ function extractJSON(text: string): string {
 
 ## 📸 Screenshots
 
-### 1. Topic Selection Screen
- ![Topic Selection](./public/Screenshots/Screenshot 2025-12-07 190211.png) 
-> *Users can choose from 6 pre-defined topics or enter a custom topic. Timer can be toggled on/off.*
 
-### 2. Loading Screen
- ![Loading Screen](./public/Screenshots/Screenshot 2025-12-07 190252.png) 
+### 1. Loading Screen
+ ![Loading Screen](./public/Screenshots/Loading) 
 > *Animated loading state while AI generates quiz questions.*
 
-### 3. Question Screen
-<!-- ![Question Screen](./screenshots/question.png) -->
+### 2. Question Screen
+![Question Screen](./public/Screenshots/Question) 
 > *One question at a time with A/B/C/D options, progress bar, and optional timer.*
 
-### 4. Results Screen
-<!-- ![Results Screen](./screenshots/results.png) -->
+### 3. Results Screen
+ ![Results Screen](./public/Screenshots/Result) 
 > *Score display with AI-generated feedback and detailed answer review.*
+
+### 3. Feedback Screen
+ ![Results Screen](./public/Screenshots/Feedback) 
 
 ---
 
