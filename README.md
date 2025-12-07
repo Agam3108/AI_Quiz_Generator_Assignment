@@ -296,11 +296,11 @@ function extractJSON(text: string): string {
 ## 📸 Screenshots
 
 ### 1. Topic Selection Screen
-<!-- ![Topic Selection](./screenshots/topic-selection.png) -->
+ ![Topic Selection](./public/Screenshots/Screenshot 2025-12-07 190211.png) 
 > *Users can choose from 6 pre-defined topics or enter a custom topic. Timer can be toggled on/off.*
 
 ### 2. Loading Screen
-<!-- ![Loading Screen](./screenshots/loading.png) -->
+ ![Loading Screen](./public/Screenshots/Screenshot 2025-12-07 190252.png) 
 > *Animated loading state while AI generates quiz questions.*
 
 ### 3. Question Screen
