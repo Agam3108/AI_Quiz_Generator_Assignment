@@ -297,19 +297,19 @@ function extractJSON(text: string): string {
 
 
 ### 1. Loading Screen
- ![Loading Screen](./public/Screenshots/Loading) 
+ ![Loading Screen](./public/Screenshots/Loading.png) 
 > *Animated loading state while AI generates quiz questions.*
 
 ### 2. Question Screen
-![Question Screen](./public/Screenshots/Question) 
+![Question Screen](./public/Screenshots/Question.png) 
 > *One question at a time with A/B/C/D options, progress bar, and optional timer.*
 
 ### 3. Results Screen
- ![Results Screen](./public/Screenshots/Result) 
+ ![Results Screen](./public/Screenshots/Result.png) 
 > *Score display with AI-generated feedback and detailed answer review.*
 
 ### 3. Feedback Screen
- ![Results Screen](./public/Screenshots/Feedback) 
+ ![Results Screen](./public/Screenshots/Feedback.png) 
 
 ---
 
