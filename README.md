@@ -91,7 +91,7 @@ npm run preview
 
 ### Demo
 <!-- Add your demo link or screen recording here -->
-> 🎬 [View Live Demo](#) | [Screen Recording](#)
+> 🎬[Screen Recording](https://drive.google.com/file/d/1WTDuVqf7pRoCASek3yqNM4govHwA_4p2/view?usp=sharing)
 
 ---
 
